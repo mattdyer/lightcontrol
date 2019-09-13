@@ -43,4 +43,4 @@ if len(sys.argv) >= 3:
 		time.sleep(0.5)
 
 else:
-	print("requires timeout and IP list")
+	print("requires timeout and IP list example: control.py 10000 192.168.1.10,192.168.1.11")
